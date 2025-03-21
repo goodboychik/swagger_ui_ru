@@ -12,7 +12,7 @@ tags:
 paths:
   /clients/{clientId}/blocks:
     post:
-      summary: Блокирует платежи определенного клиента
+      summary: Блокировка платежей определенного клиента
       description: Создает новую блокировку для платежей клиента
       tags:
         - blocks
